@@ -102,8 +102,8 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container text-center">
-						<h2 class="section_title">Popular Online Courses</h2>
-						<div class="section_subtitle"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida arcu. Vestibulum feugiat, sapien ultrices fermentum congue, quam velit venenatis sem</p></div>
+						<h2 class="section_title">Proyecta tu vida al siglo XXI</h2>
+						<div class="section_subtitle"><p>En el IMA estamos enfocados a apoyarte en el desarrollo de tu vida académica con proyecciòn profesional, por eso contamos con programas de extensión para que continues creciendo.</p></div>
 					</div>
 				</div>
 			</div>
@@ -114,10 +114,10 @@
 					<div class="course">
 						<div class="course_image"><img src="images/course_1.jpg" alt=""></div>
 						<div class="course_body">
-							<h3 class="course_title"><a href="course.html">Software Training</a></h3>
-							<div class="course_teacher">Mr. John Taylor</div>
+							<h3 class="course_title"><a href="course.html">Mejores resultados</a></h3>
+							<div class="course_teacher">PreIcfes y PreSABER</div>
 							<div class="course_text">
-								<p>Lorem ipsum dolor sit amet, consectetur adipi elitsed do eiusmod tempor</p>
+								<p>Contamos con un programa de preparación para obtener los mejores resultados en pruebas de estado y facilitar tu ingreso a la educación superior.</p>
 							</div>
 						</div>
 						<div class="course_footer">
@@ -141,10 +141,10 @@
 					<div class="course">
 						<div class="course_image"><img src="images/course_2.jpg" alt=""></div>
 						<div class="course_body">
-							<h3 class="course_title"><a href="course.html">Developing Mobile Apps</a></h3>
-							<div class="course_teacher">Ms. Lucius</div>
+							<h3 class="course_title"><a href="course.html">Aprende a tu ritmo</a></h3>
+							<div class="course_teacher">Educación asíncrona</div>
 							<div class="course_text">
-								<p>Lorem ipsum dolor sit amet, consectetur adipi elitsed do eiusmod tempor</p>
+								<p>Marca tu propio ritmo de aprendizaje, consigue los resultados en el tiempo que consideres necesario. ¡Tu eres el centro de tú educación!</p>
 							</div>
 						</div>
 						<div class="course_footer">
@@ -168,10 +168,13 @@
 					<div class="course">
 						<div class="course_image"><img src="images/course_3.jpg" alt=""></div>
 						<div class="course_body">
-							<h3 class="course_title"><a href="course.html">Starting a Startup</a></h3>
-							<div class="course_teacher">Mr. Charles</div>
+							<h3 class="course_title"><a href="course.html">Enfoque STEAM</a></h3>
+							<div class="course_teacher">Preparate para el futuro</div>
 							<div class="course_text">
-								<p>Lorem ipsum dolor sit amet, consectetur adipi elitsed do eiusmod tempor</p>
+								<p>
+									Tenemos un enfoque en habilidades técnicas orientadas al manejo de tecnologías que te ayuden a sobresalir en las nuevas economías.
+									<strong>Science, tech, engineering and math.</strong>
+								</p>
 							</div>
 						</div>
 						<div class="course_footer">
@@ -193,7 +196,7 @@
 			</div>
 			<div class="row">
 				<div class="col">
-					<div class="courses_button trans_200"><a href="#">view all courses</a></div>
+					<div class="courses_button trans_200"><a href="/matricular">¡Matriculate Ahora!</a></div>
 				</div>
 			</div>
 		</div>
